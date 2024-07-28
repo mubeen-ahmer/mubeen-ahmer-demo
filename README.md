@@ -1,4 +1,4 @@
 # mubeen-ahmer-demo
 first repository
 <br>
-Author MJUBEEN AHMER
+Author MUBEEN AHMER
